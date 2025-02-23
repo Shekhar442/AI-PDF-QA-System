@@ -20,5 +20,5 @@ This application allows users to upload PDF documents and ask questions about th
 
 1. Clone the repository:
 ```bash
-git clone [https://github.com/yourusername/pdf-qa-system.git](https://github.com/Shekhar442/AI-PDF-QA-System.git)
+git clone https://github.com/Shekhar442/AI-PDF-QA-System.git
 cd pdf-qa-system
